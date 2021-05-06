@@ -12,7 +12,7 @@ const messages = [
   'hi',
   'hello',
   'hola',
-  'you-can-email-me-at-literally-anything! Really',
+  'you-can-email-me-literally-anything! Really',
   'well, not anything. But most things',
   'like-this',
   'or-this',
@@ -73,7 +73,7 @@ const EmailLink = () => {
       onMouseEnter={() => setIsActive(false)}
       onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
     >
-      <a href={validateText(message) ? `mailto:${message}nirsingh124@gmail.com` : ''}>
+      <a href="mailto:nirsingh124@gmail.com">
         <span>{message}</span>
         <span>@nirsingh124</span>
       </a>

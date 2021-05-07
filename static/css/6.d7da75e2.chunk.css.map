@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Repository/Cell.module.css"],"names":[],"mappings":"AAAA,kBACI,gBAAiB,CACjB,iBACJ","file":"6.d7da75e2.chunk.css","sourcesContent":[".Cell{\n    margin-left: 20px;\n    margin-right: 15px;\n}\n"]}

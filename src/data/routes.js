@@ -17,6 +17,10 @@ const routes = [
     path: '/projects',
   },
   {
+    label: 'Repositories',
+    path: '/repository',
+  },
+  {
     label: 'Stats',
     path: '/stats',
   },

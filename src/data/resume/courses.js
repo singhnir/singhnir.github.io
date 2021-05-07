@@ -5,8 +5,8 @@ const courses = [
     university: 'University of Delhi',
   },
   {
-    title: 'Quantum Mechanics I',
-    number: 'PH-CT402',
+    title: 'Quantum Mechanics I,II',
+    number: 'PH-CT402, CT406',
     university: 'University of Delhi',
   },
   {
@@ -25,11 +25,6 @@ const courses = [
     university: 'University of Delhi',
   },
   {
-    title: 'Quantum Mechanics II',
-    number: 'PH-CT406',
-    university: 'University of Delhi',
-  },
-  {
     title: 'Statistical Physics',
     number: 'PH-CT407',
     university: 'University of Delhi',
@@ -45,7 +40,7 @@ const courses = [
     university: 'University of Delhi',
   },
   {
-    title: 'General Lab I (Waves & Optics + Solid State Physics)',
+    title: 'General Lab II (Waves & Optics + Solid State Physics)',
     number: 'PH-CL410',
     university: 'University of Delhi',
   },
@@ -65,8 +60,8 @@ const courses = [
     university: 'University of Delhi',
   },
   {
-    title: 'Condensed Matter Physics I',
-    number: 'PH-ET533',
+    title: 'Condensed Matter Physics I, II',
+    number: 'PH-ET533, ET573',
     university: 'University of Delhi',
   },
   {
@@ -80,24 +75,59 @@ const courses = [
     university: 'University of Delhi',
   },
   {
-    title: 'Advanced Numerical Techniques (Theory)',
-    number: 'PH-ET561',
-    university: 'University of Delhi',
-  },
-  {
-    title: 'Advanced Numerical Techniques (Lab)',
-    number: 'PH-ET562',
-    university: 'University of Delhi',
-  },
-  {
-    title: 'Condensed Matter Physics II',
-    number: 'PH-ET573',
+    title: 'Advanced Numerical Techniques (Theory + Lab)',
+    number: 'PH-ET561, ET562',
     university: 'University of Delhi',
   },
   {
     title: 'Fluid Dynamics',
     number: 'PH-ET585',
     university: 'University of Delhi',
+  },
+  {
+    title: 'Mathematical Physics I,II,III',
+    number: 'C-I,V,VIII',
+    university: 'Hindu College University of Delhi',
+  },
+  {
+    title: 'Mechanics',
+    number: 'C-II',
+    university: 'Hindu College University of Delhi',
+  },
+  {
+    title: 'Electricity and Magnetism',
+    number: 'C-III',
+    university: 'Hindu College University of Delhi',
+  },
+  {
+    title: 'Waves and Optics',
+    number: 'C-IV',
+    university: 'Hindu College University of Delhi',
+  },
+  {
+    title: 'Thermal Physics',
+    number: 'C-VI',
+    university: 'Hindu College University of Delhi',
+  },
+  {
+    title: 'Digital Systems and Applications',
+    number: 'C-VII',
+    university: 'Hindu College University of Delhi',
+  },
+  {
+    title: 'Elements of Modern Physics',
+    number: 'C-IX',
+    university: 'Hindu College University of Delhi',
+  },
+  {
+    title: 'Analog Systems and Applications',
+    number: 'C-X',
+    university: 'Hindu College University of Delhi',
+  },
+  {
+    title: 'Astronomy and Astrophysics',
+    number: 'DSE',
+    university: 'Hindu College University of Delhi',
   },
 ];
 

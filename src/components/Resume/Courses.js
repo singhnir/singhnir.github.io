@@ -23,7 +23,6 @@ const Courses = ({ data }) => (
     <div className="link-to" id="courses" />
     <div className="title">
       <h3>Selected Courses</h3>
-      <p>Yes, I had to read a lot of papers during my academic.</p>
     </div>
     <ul className="course-list">
       {getRows(data)}

@@ -7,9 +7,9 @@ const data = [
     image: '/images/projects/lvm.png',
     date: 'April 22, 2021',
     desc:
-      'Every species has it’s own balance numbers since nature '
-      + 'doesn’t support the exponential growth of any species. '
-      + 'Achieved this natural behiviour in our simulation using C programming.',
+      'Simulated the lotka volterra model starting with hypothetical assumptions '
+      + 'and made step by step modification '
+      + 'to reach the realistic behaviour of model.',
   },
   {
     title: 'The Intelligent Mirror powered by Raspberry PI',
@@ -19,7 +19,7 @@ const data = [
     date: 'June 18, 2018',
     desc:
       'Won 3000 INR for presenting the Scientific Poster at the INSPIRE Scholars Science Conclave 2019. '
-      + 'for creating The Intelligent Mirror using the college electronic wastes.',
+      + 'for creating The Intelligent Mirror using the Raspberry Pi and college electronic wastes.',
   },
   {
     title: 'Infinity love for Cats',

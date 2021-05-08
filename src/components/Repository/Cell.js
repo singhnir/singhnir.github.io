@@ -7,9 +7,9 @@ const Cell = ({ data }) => (
   <div className="cell-container">
     <article className="mini-post">
       <header>
-        <h2><a href={data.link} target="_blank" rel="noopener noreferrer">{data.title}</a></h2>
+        <h3><a href={data.link} target="_blank" rel="noopener noreferrer">{data.title}</a></h3>
       </header>
-      <p className={classes.Cell} align="justify">{data.desc}</p>
+      <p className={classes.Cell} align="justify"><a href={data.link} target="_blank" rel="noopener noreferrer">{data.desc}</a></p>
     </article>
   </div>
 );

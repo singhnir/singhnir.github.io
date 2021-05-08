@@ -1,16 +1,5 @@
 const topics = [
   {
-    company: 'Google IT Automation with Python Professional Certificate',
-    position: 'Google',
-    link: 'https://www.coursera.org/professional-certificates/google-it-automation',
-    daterange: 'October, 2020',
-    points: [
-      'Crash Course on Python.',
-      'Using Python to Interact with the Operating System.',
-      'Introduction to Git and GitHub.',
-    ],
-  },
-  {
     company: 'Web Design for Everybody: Basics of Web Development & Coding Specialization',
     position: 'University of Michigan',
     link: 'https://www.coursera.org/account/accomplishments/specialization/ATQ9B9UL2ARN',
@@ -24,17 +13,21 @@ const topics = [
     ],
   },
   {
+    company: 'Google IT Automation with Python Professional Certificate',
+    position: 'Google',
+    link: 'https://www.coursera.org/professional-certificates/google-it-automation',
+    daterange: 'October, 2020',
+    points: [
+      'Crash Course on Python.',
+      'Using Python to Interact with the Operating System.',
+      'Introduction to Git and GitHub.',
+    ],
+  },
+  {
     company: 'How Things Work: An Introduction to Physics',
     position: 'University of Virginia',
     link: 'https://www.coursera.org/account/accomplishments/verify/RS4KFSJ3DHAK',
     daterange: 'May 4, 2020',
-    points: [],
-  },
-  {
-    company: 'The Science of the Solar System',
-    position: 'Caltech',
-    link: 'https://www.coursera.org/learn/solar-system',
-    daterange: 'November, 2020',
     points: [],
   },
   {
@@ -49,6 +42,13 @@ const topics = [
     position: 'Duke University',
     link: 'https://www.coursera.org/account/accomplishments/verify/FXRFJESGLQ7Y',
     daterange: 'September 22, 2020',
+    points: [],
+  },
+  {
+    company: 'The Science of the Solar System',
+    position: 'Caltech',
+    link: 'https://www.coursera.org/learn/solar-system',
+    daterange: 'November, 2020',
     points: [],
   },
 ];

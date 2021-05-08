@@ -19,7 +19,7 @@ import Stats from '../pages/Stats';
 const pages = [
   {
     route: '/',
-    heading: 'About this site',
+    heading: 'Welcome नमस्ते !',
     component: Index,
   },
   {

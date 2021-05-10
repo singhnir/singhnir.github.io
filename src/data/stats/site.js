@@ -21,14 +21,6 @@ const data = [
     link: 'https://github.com/singhnir/singhnir.github.io/network/',
   },
   {
-    label: 'Number of spoons',
-    value: '0',
-  },
-  {
-    label: 'Number of linter warnings',
-    value: '0', // enforced via github workflow
-  },
-  {
     label: 'Open github issues',
     key: 'open_issues_count',
     link: 'https://github.com/singhnir/singhnir.github.io/issues',

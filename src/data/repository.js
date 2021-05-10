@@ -1,4 +1,4 @@
-// TODO Add a couple lines about each project
+// TODO Add a couple lines about each repository
 const data = [
   {
     title: '1. Numerical Methods in C Programming',
@@ -28,7 +28,7 @@ const data = [
       'Advanced Numerical Techniques (Lab) - M.Sc. Physics University of Delhi. Semester: IV Course Code: PH-EL562. '
       + 'As per our university syllabus, "This Lab course is designed to develop computer programming skills '
       + 'for implementing advanced numerical methods like Interpolation, Solution of Linear Equations, '
-      + 'Monte Carlo Methods, Curve-Fitting techniques etc." Here I have committed the programs of the'
+      + 'Monte Carlo Methods, Curve-Fitting techniques etc." Here I have committed the programs of the '
       + 'assignment sheets that we have got each week.',
   },
   {
@@ -36,7 +36,7 @@ const data = [
     link: 'https://github.com/singhnir/DU-MSc-Physics-Complex-Network',
     desc:
       'Complex System and Networks - M.Sc. Physics University of Delhi. Semester: III Course Code: PH-OT543. '
-      + 'As per our university syllabus, "his course deals with the interdisciplinary subject of complex systems, '
+      + 'As per our university syllabus, "This course deals with the interdisciplinary subject of complex systems, '
       + 'that include, among others, living organisms, ecosystems and human societies." Here I have committed '
       + 'solutions of the given practice sheets to simulate in Python3 using Jupyter Notebook.',
   },

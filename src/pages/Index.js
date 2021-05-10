@@ -26,9 +26,7 @@ const Index = () => (
       </p>
       <section className="blurb">
         <ul className="actions">
-          <li>
-            <Link to={{ pathname: '' }} className="button">Download CV</Link>
-          </li>
+          <li><a href="nirmalsingh-CV.pdf" className="button" download>Download CV</a></li>
         </ul>
       </section>
       <p> Source-code available <a href="https://github.com/singhnir/singhnir.github.io">here</a>.</p>

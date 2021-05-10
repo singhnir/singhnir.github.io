@@ -18,6 +18,19 @@ const Age = () => {
   return <>{age}</>;
 };
 
+const Coffee = () => {
+  const start = new Date('2021-05-01');
+  const end = Date.now();
+  let coffee = 824;// coffee count on date 2021-05-01
+
+  while (end > start) {
+    coffee += 1;
+    start.setDate(start.getDate() + 1);
+  }
+
+  return coffee;
+};
+
 const data = [
   {
     key: 'age',
@@ -25,9 +38,14 @@ const data = [
     value: <Age />,
   },
   {
+    key: 'city',
+    label: 'Current city',
+    value: 'New Delhi',
+  },
+  {
     key: 'coffee',
     label: 'Cups of coffee',
-    value: '834',
+    value: <Coffee />,
   },
   {
     key: 'study',

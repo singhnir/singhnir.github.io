@@ -5,10 +5,10 @@ const data = [
     subtitle: 'numerical-methods-in-c-programming',
     link: 'https://github.com/singhnir/numerical-methods',
     desc:
-      'This repository contains the general numerical techniques programs '
-      + 'performed using c - programming. As all of my previous repositories '
-      + ' were specific problem oriented so I decided to rewrite the program '
-      + 'more in a general way so that everyone can use them wihout any hesitation.',
+      'This repository has the general numerical techniques programs '
+      + 'performed using c - programming. As all of my earlier repositories '
+      + 'were specific problem oriented so I decided to rewrite the program '
+      + 'more in a general way so that everyone can use them without any hesitation.',
   },
   {
     title: '2. Computational Physics (Lab) M.Sc. Physics University of Delhi',

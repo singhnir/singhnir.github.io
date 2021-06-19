@@ -5,7 +5,7 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    description={"Nirmal Singh's personal website."}
+    description="Nirmal Singh M.Sc. Physics Hindu College"
   >
     <article className="post" id="index">
       <header>
@@ -18,7 +18,7 @@ const Index = () => (
       </header>
       <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
+        <Link to="/resume">résumé</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
         <Link to="/repository">repositories</Link>, {' '}
         view <Link to="/stats">site statistics</Link>, {' '}

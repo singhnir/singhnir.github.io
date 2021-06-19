@@ -39,7 +39,7 @@ Main.defaultProps = {
   children: null,
   fullPage: false,
   title: null,
-  description: "Nirmal Singh's personal website.",
+  description: 'Nirmal Singh M.Sc. Physics Hindu College',
 };
 
 export default Main;

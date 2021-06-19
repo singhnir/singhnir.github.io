@@ -73,7 +73,7 @@ const EmailLink = () => {
       onMouseEnter={() => setIsActive(false)}
       onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
     >
-      <a href="mailto:nirsingh124@gmail.com">
+      <a href="mailto:nirsingh124@gmail.com?subject=Your website is awesome. Subject&body=Hey! I saw your personal-website, it is great.">
         <span>{message}</span>
         <span>@nirsingh124</span>
       </a>

@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
+import { faFilePdf } from '@fortawesome/free-regular-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Main from '../layouts/Main';
 
 const Index = () => (
@@ -26,7 +27,7 @@ const Index = () => (
       </p>
       <section className="blurb">
         <ul className="actions">
-          <li><a href="nirmalsingh-CV.pdf" className="button" download>Download CV</a></li>
+          <li><a href="nirmalsingh-CV.pdf" className="button" download>Download CV <FontAwesomeIcon icon={faFilePdf} /></a></li>
         </ul>
       </section>
       <p> Source-code available <a href="https://github.com/singhnir/singhnir.github.io">here</a>.</p>
